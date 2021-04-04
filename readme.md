@@ -9,6 +9,7 @@ Please feel free to contact me with any tips, comments, or constructive criticis
 Thanks!
 
 -Beau
+<br><br>
 email: beaubarrier@gmail.com
 
 <img width="1040" alt="horiseonscreenshot" src="https://user-images.githubusercontent.com/78766978/113521537-f0827000-954e-11eb-977c-3ed2ebca66c5.png">
